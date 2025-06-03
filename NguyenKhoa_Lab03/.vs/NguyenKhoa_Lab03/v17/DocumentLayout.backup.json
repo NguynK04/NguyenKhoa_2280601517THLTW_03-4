@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:57:15.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
